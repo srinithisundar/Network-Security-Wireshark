@@ -5,13 +5,13 @@ This repository contains an analysis of network traffic using Wireshark. The inv
 
 ## Folder Structure
 
-- `wireshark_analysis.txt` – Detailed analysis findings  
+- `wireshark_analysis.md` – Detailed analysis findings  
 - `screenshots/` – Output screenshots from the analysis  
 - `pcap-file.pcap` – PCAP file for reference  
 
 ## Analysis Details
 
-The **full analysis findings** can be found in the `wireshark_analysis.txt` file. Screenshots of the analysis process and key observations are stored in the `screenshots/` folder.
+The **full analysis findings** can be found in the `wireshark_analysis.md` file. Screenshots of the analysis process and key observations are stored in the `screenshots/` folder.
 
 ## PCAP File Source
 
